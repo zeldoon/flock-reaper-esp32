@@ -1,2 +1,7 @@
-# flock-reaper-esp32
-ESP32-3248S035R firmware for Flock Safety detection and exploits - GainSec integration. Built for zeldoon.
+# Flock Reaper ESP32-3248S035R
+
+Firmware for Flock Safety detection/exploits based on GainSec research + Marauder.
+
+Flash with PlatformIO. Supports WiFi/BLE sniff, display UI, SD logging.
+
+GainSec whitepaper: https://github.com/GainSec/anti-crime-ecosystem-research
